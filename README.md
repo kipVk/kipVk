@@ -15,7 +15,7 @@ You can see my Software Engineer CV here: [SWE CV](/cv/RebecaCenamor_CV_SWE_Nov2
 You can see my Product Developer CV here: [PM CV](/cv/RebecaCenamor_CV_PM_Nov2020.pdf)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kipVk&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipVk&layout=compact)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipVk&layout=compact&theme=algolia)
 
 [![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/rebecacenamorgarcia/)
 
