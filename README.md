@@ -10,7 +10,7 @@ Languages I love:
 
 You can see my CV here: [Dev Specialist CV](/cv/RebecaCenamor_CV_DS_Apr2022.pdf)
 
-![Github stats](https://github-readme-stats.vercel.app/api?username=kipVk&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)
+
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipVk&layout=compact&theme=algolia)
 
 [![linkedin](https://img.shields.io/badge/Linkedin-grey?logo=linkedin)](https://www.linkedin.com/in/rebecacenamorgarcia/)
