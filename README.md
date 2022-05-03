@@ -2,13 +2,13 @@
 
 ### Hello!
 
-I'm a Telecommuncations Engineer who has been working few years as Technical Director in the animation industry. Then I joined Hive Helsinki as a student to continue improving my coding skills. The public content of this gitHub is mainly some of the projects done while studying at Hive. I'm currently working full time as Software Engineer.
+I'm a Telecommuncations Engineer who has been working few years as Technical Director in the animation industry. Then I joined Hive Helsinki as a student to continue improving my coding skills. The public content of this gitHub is mainly some of the projects done while studying at Hive before I started working full time as Software Engineer.
 
 Languages I love:
 
-![python](https://img.shields.io/badge/Python-grey?logo=python)![javascrip](https://img.shields.io/badge/JavaScript-grey?logo=javascript)![html](https://img.shields.io/badge/HTML5-grey?logo=HTML5)![css](https://img.shields.io/badge/CSS-grey?logo=CSS3)![php](https://img.shields.io/badge/PHP-grey?logo=php)![mysql](https://img.shields.io/badge/MySQL-grey?logo=MySQL)![jquery](https://img.shields.io/badge/JQuery-grey?logo=JQuery)![qt](https://img.shields.io/badge/Qt-grey?logo=Qt)![java](https://img.shields.io/badge/Java-grey?logo=Java)![c](https://img.shields.io/badge/C-grey?logo=C)![bash](https://img.shields.io/badge/Bash-grey?logo=gnu-bash)![extendsc](https://img.shields.io/badge/ExtendScript-grey?logo=adobe)
+![python](https://img.shields.io/badge/Python-grey?logo=python)![javascrip](https://img.shields.io/badge/JavaScript-grey?logo=javascript)![react](https://img.shields.io/badge/React-grey?logo=react)![typescript](https://img.shields.io/badge/TypeScript-grey?logo=typescript)![html](https://img.shields.io/badge/HTML5-grey?logo=HTML5)![css](https://img.shields.io/badge/CSS-grey?logo=CSS3)![php](https://img.shields.io/badge/PHP-grey?logo=php)![mysql](https://img.shields.io/badge/MySQL-grey?logo=MySQL)![robot](https://img.shields.io/badge/RobotFramework-grey?logo=robotframework)![jquery](https://img.shields.io/badge/JQuery-grey?logo=JQuery)![qt](https://img.shields.io/badge/Qt-grey?logo=Qt)![java](https://img.shields.io/badge/Java-grey?logo=Java)![c](https://img.shields.io/badge/C-grey?logo=C)![bash](https://img.shields.io/badge/Bash-grey?logo=gnu-bash)![extendsc](https://img.shields.io/badge/ExtendScript-grey?logo=adobe)
 
-You can see my Software Engineer CV here: [SWE CV](/cv/RebecaCenamor_CV_SWE_Mar2022.pdf)
+You can see my CV here: [Dev Specialist CV](/cv/RebecaCenamor_CV_DS_Apr2022.pdf)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=kipVk&show_icons=true&theme=algolia&count_private=true&hide=stars,prs,issues,contribs)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kipVk&layout=compact&theme=algolia)
